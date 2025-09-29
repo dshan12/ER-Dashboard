@@ -29,7 +29,6 @@ These documents demonstrate the system’s reproducibility, evaluation rigor, an
 
 - **assets/**
   - Screenshots of the Streamlit dashboard (running only synthetic data).  
-  - Architecture diagram.
 
 ---
 
