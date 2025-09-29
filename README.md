@@ -8,12 +8,18 @@ This repo is strictly for **application reviewers** to verify the project’s sc
 
 ---
 
-## What’s Inside
+## Documentation & Reports
 
-- **docs/**
-  - `quickstart.md` – high-level setup and demo instructions (for internal runs only).  
-  - `schema.md` – event log schema (synthetic only, no PHI).  
-  - `tech_notes.md` – design choices, assumptions, limitations.  
+For reviewers who would like more detail, see the `docs/` folder:
+
+- [Quickstart](docs/quickstart.md) — overview of how the prototype runs (simulation-only).  
+- [Schema](docs/schema.md) — event log schema with columns and definitions.  
+- [Tech Notes](docs/tech_notes.md) — design choices, assumptions, and limitations.  
+- [Evaluation Report](docs/eval.md) — results showing alert lead times, door-to-bed by ESI, and LWBS counts.
+
+These documents demonstrate the system’s reproducibility, evaluation rigor, and careful handling of privacy (synthetic data only, no PHI).
+
+## What’s Inside
 
 - **reports/**
   - `eval.md` – evaluation results, including:
