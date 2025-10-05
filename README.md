@@ -4,7 +4,7 @@ This repository provides **documentation, screenshots, and evaluation artifacts*
 
 ⚠️ **Note:**  
 The full implementation code is private for **IP and privacy reasons** (designed for future commercialization and uses only synthetic data).  
-This repo is strictly for **application reviewers** to verify the project’s scope and rigor.
+This repo is strictly to verify the project’s scope and rigor.
 
 ---
 
