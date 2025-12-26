@@ -46,7 +46,7 @@ These documents demonstrate the system’s reproducibility, evaluation rigor, an
 ## Privacy / IP
 
 - 🚫 **No PHI**: all data is generated synthetically via stochastic simulation.  
-- 🔒 **Private repo**: implementation code is kept private for commercialization potential.  
+- 🔒 **Private repo**: implementation code is kept private for privacy.  
 - ✅ **Evidence only**: this repo demonstrates outcomes, not source.
 
 ---
