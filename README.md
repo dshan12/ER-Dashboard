@@ -3,7 +3,7 @@
 This repository provides **documentation, screenshots, and evaluation artifacts** from a private prototype of an **Emergency Room (ER) operations dashboard** that I built. 
 
 ⚠️ **Note:**  
-The full implementation code is private for **IP and privacy reasons** (designed for future commercialization and uses only synthetic data).  
+The full implementation code is private for **privacy reasons**.  
 This repo is strictly to verify the project’s scope and rigor.
 
 ---
